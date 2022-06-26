@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/73328117/175797443-48e4b06c-c58e-429e-ae2b-4bd7e3a9001e.png)
 
-由江汉大学易建钢教授组织机械制造部设计的液压与气压传动课件，由段嘉仪和刘鹏整理
+由江汉大学易建钢教授组织机械制造教研室设计的液压与气压传动课件，由段嘉仪和刘鹏整理。
 一共有八章
 1. Chapter one   液压与气压传动的工作原理及特征（Working Principle and Characteristics of Hydraulic and Pneumatic Transmission）
 2. Chapter two   液压泵概述(The Overview of Hydraulic Pump)
